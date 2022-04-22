@@ -11,3 +11,5 @@ Para evitar que los materiales sean sumados en las califiaciones de los alumnos 
 El uso de las aulas virtuales en Moodle pueden llegar a ser muy útiles sobre todo en el apartado de actualizaciones de los recursos y actividades.
 
 Estos recursos pueden ser aprovechados dependiendo siempre de las necesidades de cada profesor.
+
+Pero aún se pueden utilizar copias del aula virtual si se considera mejor.
