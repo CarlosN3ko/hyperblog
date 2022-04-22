@@ -9,3 +9,5 @@ En caso que algun profesor o profesores considere pertinente compartir materiale
 Para evitar que los materiales sean sumados en las califiaciones de los alumnos es posible excluir o anular actividades desde el libro de calificaciones.
 
 El uso de las aulas virtuales en Moodle pueden llegar a ser muy útiles sobre todo en el apartado de actualizaciones de los recursos y actividades.
+
+Estos recursos pueden ser aprovechados dpendiendo siempre de las necesidades de cada profesor.
