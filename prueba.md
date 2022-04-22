@@ -13,3 +13,6 @@ El uso de las aulas virtuales en Moodle pueden llegar a ser muy útiles sobre to
 Estos recursos pueden ser aprovechados dependiendo siempre de las necesidades de cada profesor.
 
 Pero aún se pueden utilizar copias del aula virtual si se considera mejor.
+
+- esta es una lista
+- esta es un lista
